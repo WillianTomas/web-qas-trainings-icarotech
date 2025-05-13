@@ -1,0 +1,26 @@
+{
+    "inputs": {
+        "firstname": "Willian BA",
+        "lastname": "Ribeiro",
+        "company": "Icaro",
+        "address": "Rua Orlando Perez",
+        "address2": "Rua Orlando Perez",
+        "country": "Canada",
+        "state": "Sao Paulo",
+        "city": "Sao Carlos",
+        "zipcode": "13563000",
+        "mobilenumber": "16999999999"
+    },
+    "elements": {
+        "firstname": "#first_name",
+        "lastname": "#last_name",
+        "company": "#company",
+        "address": "#address1",
+        "address2": "#address2",
+        "country": "#country",
+        "state": "#state",
+        "city": "#city",
+        "zipcode": "#zipcode",
+        "mobilenumber": "#mobile_number"
+    }
+}

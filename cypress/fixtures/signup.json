@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "name": "Willian BA",
+    "emailaddress": "WillianBA@email.com"
+  },
+  "elements": {
+    "name": "[data-qa='signup-name']",
+    "emailaddress": "[data-qa='signup-email']"
+  }
+}
